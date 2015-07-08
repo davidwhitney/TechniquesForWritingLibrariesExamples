@@ -44,7 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DelegatedCallsToLogging\DelegatedLogging.cs" />
     <Compile Include="DelegatingCallsToTypeCreation\DelegatedTypeCreation.cs" />
+    <Compile Include="EventsCallbacksAndPipelines\EventsCallbacksAndPipelines.cs" />
     <Compile Include="RegistrationApisAndContextObjects\FullFluentBuilderExample.cs" />
     <Compile Include="RegistrationApisAndContextObjects\SimpleConfigurationApi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
