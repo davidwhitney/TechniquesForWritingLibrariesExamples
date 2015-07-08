@@ -46,7 +46,9 @@
   <ItemGroup>
     <Compile Include="DelegatedCallsToLogging\DelegatedLogging.cs" />
     <Compile Include="DelegatingCallsToTypeCreation\DelegatedTypeCreation.cs" />
+    <Compile Include="EventsCallbacksAndPipelines\CallbackExmples.cs" />
     <Compile Include="EventsCallbacksAndPipelines\EventsCallbacksAndPipelines.cs" />
+    <Compile Include="ReflectionBasedDiscovery\AutowiredExtensibility.cs" />
     <Compile Include="RegistrationApisAndContextObjects\FullFluentBuilderExample.cs" />
     <Compile Include="RegistrationApisAndContextObjects\SimpleConfigurationApi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
